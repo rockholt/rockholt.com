@@ -1,14 +1,16 @@
-title: Kristina Rockholt Psychotherapy
-description: Psychotherapy services, approach, and contact information.
-url: "https://psychotherapy.rockholt.com"
+title: Rockholt
+description: Rockholt services, products, and contact information.
+url: "https://rockholt.com"
 
 timezone: America/Los_Angeles
 markdown: kramdown
 
+# Safe defaults for GitHub Pages
 theme: minima
 
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
 
 exclude:
   - README.md

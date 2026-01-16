@@ -1,4 +1,4 @@
-Rockholt Communication website (multi-page)
+Rockholt Communications website (multi-page)
 
 Pages:
 - index.html (home)
